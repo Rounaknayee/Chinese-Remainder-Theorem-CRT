@@ -1,4 +1,4 @@
-# CRT
+# Chinese Remainder Theorem
 This code implements the Chinese Remainder Theorem 
 
 The use of function can be seen in the example file
