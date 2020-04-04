@@ -7,7 +7,6 @@
 %-- m = array of divisors
 %-- c = the output of CRT
 
-
 function c = crtfunction(n,a,m)
 j=1;
 M=1;
